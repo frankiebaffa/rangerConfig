@@ -1,0 +1,29 @@
+open_with Preview
+rm
+rm minimalicon.jpg
+command
+feh
+`
+open_with feh
+open_with 15
+
+open_with 16
+open_with `
+search tv44
+open_with vim
+search .config
+rename Downloads
+search Documents
+open_with 2
+search documents/html
+open_with safari.app
+open_with /Applications/Safari.app/contents/MacOS/Safari
+search ranger
+open_with 
+open_with
+open_with 1
+open_with 0
+search documents
+open_with safari
+open_with atom
+open_with sox
